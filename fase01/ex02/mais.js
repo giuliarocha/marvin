@@ -1,4 +1,4 @@
 function mais(num1, num2, num3) {
-    return Number("3") + Number ("5") + Number("10");
+    return Number(num1) + Number (num2) + Number(num3);
 }
 
